@@ -2,7 +2,7 @@
 
 ### 🤵 About Me
 
-- 🎓 Graduated from top 1% university
+- 🎓 Graduated in **Computer Science** at a **Top 1% University**
 - 🔭 I’m currently working on **A new Riot Games API project** 
 - 💡 I’m currently learning **ReactJS, Typescript**
 - 💬 Ask me about **Java or Python**
