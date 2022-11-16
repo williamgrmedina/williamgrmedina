@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🤵 About Me
 
-- 🔭 I’m currently working on **a new Riot Games API project** 
+- 🔭 I’m currently working on **A new Riot Games API project** 
 - 💡 I’m currently learning **ReactJS, Typescript**
 - 💬 Ask me about **Java or Python**
 - 🥅 2022 goals: learn **Microservices, Kubernetes and Cloud Computing Services such as AWS**
