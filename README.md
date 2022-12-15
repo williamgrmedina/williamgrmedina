@@ -2,11 +2,11 @@
 
 ### 🤵 About Me
 
-- 🎓 Graduated in **Computer Science** at a **Top 1% University**
+- 🎓 Graduated in **Computer Science** at **UEL**
 - 🔭 I’m currently working on **A ReactJS project with SPRING Security integration** 
 - 💡 I’m currently learning **ReactJS, Typescript**
 - 💬 Ask me about **Java or Python**
-- 🥅 2022 goals: learn **Microservices, Kubernetes and Cloud Computing Services such as AWS**
+- 🥅 2023 goals: learn **Microservices, Kotlin**
 
 ### 📚 My Stack
 
