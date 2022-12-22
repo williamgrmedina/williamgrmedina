@@ -4,7 +4,7 @@
 
 - 🎓 Graduated in **Computer Science** at **UEL**
 - 🔭 I’m currently working on **A ReactJS project with SPRING Security integration** 
-- 💡 I’m currently learning **ReactJS, Typescript**
+- 💡 I’m currently learning **ReactJS**
 - 💬 Ask me about **Java or Python**
 - 🥅 2023 goals: learn **Microservices, Kotlin**
 
